@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nitheshurao/deplyprofie/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nitheshurao/deplyprofie/static/js/main.e8965053.chunk.js",
+    "main.js.map": "/nitheshurao/deplyprofie/static/js/main.e8965053.chunk.js.map",
+    "runtime-main.js": "/nitheshurao/deplyprofie/static/js/runtime-main.4197e3d8.js",
+    "runtime-main.js.map": "/nitheshurao/deplyprofie/static/js/runtime-main.4197e3d8.js.map",
+    "static/js/2.ae8ccf6d.chunk.js": "/nitheshurao/deplyprofie/static/js/2.ae8ccf6d.chunk.js",
+    "static/js/2.ae8ccf6d.chunk.js.map": "/nitheshurao/deplyprofie/static/js/2.ae8ccf6d.chunk.js.map",
+    "index.html": "/nitheshurao/deplyprofie/index.html",
+    "precache-manifest.0d5d0a535612bba4a6a34f956eb5263d.js": "/nitheshurao/deplyprofie/precache-manifest.0d5d0a535612bba4a6a34f956eb5263d.js",
+    "service-worker.js": "/nitheshurao/deplyprofie/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nitheshurao/deplyprofie/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ae8ccf6d.chunk.js.LICENSE.txt": "/nitheshurao/deplyprofie/static/js/2.ae8ccf6d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nitheshurao/deplyprofie/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4197e3d8.js",
+    "static/js/2.ae8ccf6d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e8965053.chunk.js"
+  ]
+}
